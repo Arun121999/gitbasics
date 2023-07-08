@@ -3,3 +3,8 @@ This file is at main brnach
 I have done some more changes
 
 I have done locally changes from the terminal
+
+
+
+I have done some more changes manually from the dashborad
+
